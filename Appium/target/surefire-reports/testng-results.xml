@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72863" started-at="2020-08-28T07:09:58Z" finished-at="2020-08-28T07:11:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72863" started-at="2020-08-28T07:09:58Z" finished-at="2020-08-28T07:11:11Z">
+      <class name="Practice.Appium.APIDemo">
+        <test-method status="PASS" signature="Firstflow()[pri:0, instance:Practice.Appium.APIDemo@548a9f61]" name="Firstflow" duration-ms="15541" started-at="2020-08-28T07:09:58Z" finished-at="2020-08-28T07:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firstflow -->
+        <test-method status="PASS" signature="Secondflow()[pri:1, instance:Practice.Appium.APIDemo@548a9f61]" name="Secondflow" duration-ms="13115" started-at="2020-08-28T07:10:14Z" finished-at="2020-08-28T07:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Secondflow -->
+        <test-method status="PASS" signature="Thirdflow()[pri:2, instance:Practice.Appium.APIDemo@548a9f61]" name="Thirdflow" duration-ms="11557" started-at="2020-08-28T07:10:27Z" finished-at="2020-08-28T07:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thirdflow -->
+        <test-method status="PASS" signature="Fourthflow()[pri:3, instance:Practice.Appium.APIDemo@548a9f61]" name="Fourthflow" duration-ms="13217" started-at="2020-08-28T07:10:38Z" finished-at="2020-08-28T07:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fourthflow -->
+        <test-method status="PASS" signature="Fifthflow()[pri:4, instance:Practice.Appium.APIDemo@548a9f61]" name="Fifthflow" duration-ms="19413" started-at="2020-08-28T07:10:51Z" finished-at="2020-08-28T07:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fifthflow -->
+      </class> <!-- Practice.Appium.APIDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
